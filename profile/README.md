@@ -32,7 +32,7 @@ Algunas de las tecnologías utilizadas en nuestros proyectos:
 - SQL Server 
 
 
-📬 Contacto: [contacto@tiusa.com.mx](mailto:contacto@tiusa.com.mx)
+📬 Contacto: [contacto@tiusa.com.mx](mailto:sistemas@tiusa.com.mx)
 
 ---
 
